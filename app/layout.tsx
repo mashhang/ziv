@@ -33,6 +33,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "madebykuro" }],
   creator: "madebykuro",
+  icons: {
+    icon: "/logo.jpg",
+  },
 };
 
 export default function RootLayout({

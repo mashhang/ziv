@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://demo.themetorium.net/html/nui/assets/css/theme.css\")"
+    ]
+  }
+}
